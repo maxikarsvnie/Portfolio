@@ -8,7 +8,7 @@ import Tecnologias from './components/Tecnologias/Tecnologias'
 import HojaDeVida from './HojaDeVida'
 import Contacto from './components/Contacto/Contacto'
 
-function PaginaActual() {
+export function PaginaActual() {
   if (window.location.pathname === "/hoja-de-vida") {
     return <HojaDeVida />;
   }
