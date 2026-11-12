@@ -17,6 +17,14 @@ const proyectos = [
     tecnologias: ["C#", "ADO.NET", "MySQL", "SQL Server", "PostgreSQL"],
     github: "https://github.com/maxikarsvnie/ADO.NET-",
   },
+  {
+    id: 3,
+    titulo: "Sistema de gesti+om de tareas",
+    descripcion:
+      "Sistema de gestión de tareas desarrollado con React, Node.js, Express y MySQL.",
+    tecnologias: ["React", "Node.js", "Express", "MySQL"],
+    github: "https://github.com/maxikarsvnie/sistema-gestion-tareas",
+  },
 ];
 
 function Proyectos() {

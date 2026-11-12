@@ -26,16 +26,13 @@ function App() {
 
         <div className= "ms-auto d-flex gap-3">
             <a className='nav-link' href='#proyectos'>
-              proyectos 
-            </a>
-            <a className='nav-link' href='#contacto'>
-              contacto 
+              Proyectos 
             </a>
             <a className="nav-link" href="#tecnologias">
               Tecnologías
             </a>
-            <a className='nav-link' href="/hoja-de-vida">
-              Hoja de vida
+            <a className='nav-link' href='#contacto'>
+              Contacto 
             </a>
         </div>
       </nav>
