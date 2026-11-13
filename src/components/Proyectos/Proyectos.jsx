@@ -19,7 +19,7 @@ const proyectos = [
   },
   {
     id: 3,
-    titulo: "Sistema de gesti+om de tareas",
+    titulo: "Sistema de gestion de tareas",
     descripcion:
       "Sistema de gestión de tareas desarrollado con React, Node.js, Express y MySQL.",
     tecnologias: ["React", "Node.js", "Express", "MySQL"],
