@@ -66,6 +66,13 @@ function App() {
                 className="btn btn-violeta">
                   Ver Proyectos
                 </a>
+                <a
+                  href="../../public/CV-Maximiliano-Karsvnie.pdf"
+                  download="/CV-Maximiliano-Karsvnie.pdf"
+                  className="btn btn-violeta"
+                >
+                  Descargar CV ↓
+                </a>
                 <a 
                   href="https://github.com/maxikarsvnie"
                   target="_blank"
